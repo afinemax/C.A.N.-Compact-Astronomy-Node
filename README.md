@@ -2,10 +2,12 @@
 *A DIY radio telescope built using a paint can and an RTL-SDR dongle.*  
 
 ## About  
-The Compact Astronomy Node (C.A.N.) project aims to ...
+## About  
+The Compact Astronomy Node (C.A.N.) project aims to make radio astronomy more accessible with low-cost, open-source radio telescopes. Inspired by **PICTOR: A free-to-use Radio Telescope**, the C.A.N. telescope is built from a 5L metal paint can, acting as a cylindrical waveguide. It uses a $30 RTL-SDR v4 with a 2.5 MHz bandwidth for signal processing.
 
-This project is inspired by **PICTOR: A free-to-use Radio Telescope**, an open-source radio telescope.    
-Check out the [PICTOR GitHub repository](https://github.com/0xCoto/PICTOR) and the [PICTOR website](https://www.pictortelescope.com) for more information.
+While larger radio telescopes like the [Dwingeloo Radio Telescope (DRT)](https://www.camras.nl/) use larger dishes, better LNAs, and higher-bandwidth SDRs, C.A.N. focuses on providing an affordable, compact alternative for radio astronomy. 
+
+Check out the **PICTOR GitHub repository** [here](https://github.com/0xCoto/PICTOR) and the **PICTOR website** [here](https://www.pictor).
 
 ## Example Experiment  
 Measure the **21 cm Neutral Hydrogen line** at **1420 MHz (L-Band)** to perform basic Hydrogen mapping of the Milky Way IE how many arms it has. 
