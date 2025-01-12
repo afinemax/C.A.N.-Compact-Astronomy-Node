@@ -1,11 +1,10 @@
-# C.A.N. (Compact Astronomy Node)  
+# Compact Astronomy Node (CAN)  
 *A DIY radio telescope built using a paint can and an RTL-SDR dongle.*  
 
 ## About  
-## About  
-The Compact Astronomy Node (C.A.N.) project aims to make radio astronomy more accessible with low-cost, open-source radio telescopes. Inspired by **PICTOR: A free-to-use Radio Telescope**, the C.A.N. telescope is built from a 5L metal paint can, acting as a cylindrical waveguide. It uses a $30 RTL-SDR v4 with a 2.5 MHz bandwidth for signal processing.
+The Compact Astronomy Node (CAN) project aims to be a fun, educational radio astronomy project. That is open-source, and hopefully used by others. Inspired by **PICTOR: A free-to-use Radio Telescope**, the C.A.N. telescope is built from a 5L metal paint can, acting as a cylindrical waveguide. It uses a $30 RTL-SDR v4 with a 2.5 MHz bandwidth for signal processing.
 
-While larger radio telescopes like the [Dwingeloo Radio Telescope (DRT)](https://www.camras.nl/) use larger dishes, better LNAs, and higher-bandwidth SDRs, C.A.N. focuses on providing an affordable, compact alternative for radio astronomy. 
+The differnce between CAN, and radio telescopes like the [Dwingeloo Radio Telescope (DRT)](https://www.camras.nl/) are the size of the dishes, better LNAs, and better SDRs. 
 
 Check out the **PICTOR GitHub repository** [here](https://github.com/0xCoto/PICTOR) and the **PICTOR website** [here](https://www.pictor).
 
